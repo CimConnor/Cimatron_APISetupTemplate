@@ -1,0 +1,10 @@
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\Build\Setup.exe.config
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\Build\Setup.exe
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\Build\Setup.pdb
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\Build\CImatronAPI_Template.dll
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\Build\CImatronAPI_Template.pdb
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\obj\Debug\Setup.csproj.AssemblyReference.cache
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\obj\Debug\Setup.csproj.CoreCompileInputs.cache
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\obj\Debug\Setup.csproj.CopyComplete
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\obj\Debug\Setup.exe
+C:\Users\connor.devries\OneDrive - CAMBRIO\Documents\GitHub\Setup\obj\Debug\Setup.pdb
